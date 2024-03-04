@@ -2,10 +2,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    
 }
 
 .container {
     display: flex;
+    justify-content: center; /* căn giữa theo chiều ngang */
+    align-items: center;
 }
 
 .profile {
