@@ -12,9 +12,12 @@ In today's society, education is very important. So I developed this system to s
 ## Java
 System management course
 
-<center><img src="https://github.com/chriskhanhtran/portfolio-tutorial/blob/master/images/1.PNG?raw=true"></center>
+[![Github](https://img.shields.io/badge/Github-ViewOnGithub-blue?logo=GitHub)](https://github.com/TanDatTruong/Student-attendance-system)
 
-After signing up, we will log in and move to Step 2.
+In today's society, education is very important. So I developed this system to support the control of student attendance information and facial recognition.
+
+<center><img src="./picture/pic.png"></center>
+
 
 ## Step 2: Create a Repository Named `user-name.github.io`
 After all steps in this tutorial are completed, our GitHub page can be accessed at `https://user-name.github.io`. In this step, we will create a repository named `user-name.github.io` where `user-name` is the user name we use to log into GitHub. My user name is `ktran3-simon` so I will create a repository name `ktran3-simon.github.io`.
