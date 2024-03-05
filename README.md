@@ -7,7 +7,7 @@ The attendance program uses facial recognition.
 
 In today's society, education is very important. So I developed this system to support the control of student attendance information and facial recognition.
 
-<center><img src="./picture/pic.png?raw=true"></center>
+<center><img src="./picture/pic.png"></center>
 
 ## Java
 System management course
